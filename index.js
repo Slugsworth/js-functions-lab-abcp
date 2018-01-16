@@ -1,7 +1,7 @@
 // write your code below!
 
 
-function happyHolidaysTo(name){
-  return name
+function addNumbers(num1, num2){
+  return num1 +num2
 }
-happyHolidaysTo(1);
+happyHolidaysTo(1,2);
