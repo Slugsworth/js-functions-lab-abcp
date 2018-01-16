@@ -1,8 +1,8 @@
 // write your code below!
 
-function shout(string) {
-  return string.toUpperCase()
+function happyHolidays(string) {
+  return "Happy holidays!"
 }
 
-shout("hello");
+happyHolidays();
 
