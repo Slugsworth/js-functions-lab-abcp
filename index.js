@@ -11,5 +11,5 @@ function happyHolidaysTo(){
 function happyHolidayTo(){
   var name = input
   var holiday = input
-  console.log(`"Happy" + ${holiday} +${name}!`")
+  var message`Happy ${holiday} +${name}!`")
 }
