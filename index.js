@@ -7,4 +7,4 @@ happyHolidays();
 function happyHolidaysTo(name){
   return name
 }
-happyHolidaysTo(Rick)
+happyHolidaysTo(1)
